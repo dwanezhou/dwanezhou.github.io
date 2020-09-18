@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://dwane.github.io/sitemap.xml
